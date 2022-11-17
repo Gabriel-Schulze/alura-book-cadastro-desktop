@@ -1,3 +1,2 @@
-# AluraBooks - Formulário de cadastro - Desktop
-
-Projeto do curso JavaScript: consumindo e tratando dados de uma API, disponível na Alura.
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
